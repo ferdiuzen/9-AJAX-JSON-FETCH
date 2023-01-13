@@ -1,0 +1,39 @@
+1- Neden SENKRON - ASENKRON  ?
+
+2- Asenkron Yapılar
+-Ajax (Asencronic(Asynchronous) Javascript and XML)
+-Fetch  ES6 (EcmaScript = JavaScript)
+-Node.js (Sunucu taraflı)
+
+
+3-JSON Nedir?
+Javascript Object Notation
+Javacript Obje Gösterim
+
+
+4- Temel Javascript İşlemleri
+-Callback(ES6 öncesi) 
+-ES6 Promise
+-Async& Await
+
+5-Ajax Nedir?
+-Asycnronous Javascript and XML
+-Veri alma ve gönderme işlemleri asenkron olarak yapılır
+-Sayfa yenilenmeden asenkron veri alınır
+-Arka planda asenkron işlemler gerçekleşir
+-XHR(XmlHttpRequest ler le çalışılır)
+-JSON ve XML formatı kullanılır
+
+
+5-Rest API Nedir?
+ - Representational State Transfer (Temsili durum transferi)
+ -Stateless olarak çalışır,  
+-Bir çok programlama dili ile beraber kullanılabilir
+-Hızlı bir yapıdır - SOAP mesajı döndürür
+
+
+
+
+
+
+

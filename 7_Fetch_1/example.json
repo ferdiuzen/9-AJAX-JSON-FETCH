@@ -1,0 +1,16 @@
+[
+    {"name":"Mert Ergün",
+    "department":"Database",
+    "salary":20000},
+                    
+
+    {"name":"Abdullah Seyyidoğlu",
+    "department":"IT",
+    "salary":20000},
+
+    {"name":"Sena Boyuktaş",
+    "department":"Software Development",
+    "salary":20000}
+
+
+]
